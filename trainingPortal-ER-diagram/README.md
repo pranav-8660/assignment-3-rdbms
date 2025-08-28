@@ -1,6 +1,6 @@
 ## Please refer to the below mentioned Google Drive file to redirect to the draw.io page ->
 
-- https://drive.google.com/file/d/xxxxxxx/view?usp=drive_link)
+- https://drive.google.com/file/d/1C1zEquuY1_Wfvj4sT8a7jj7VPvYp65ta/view?usp=sharing
 
 ###  the ER-Diagram of a Training/Learning Management Portal
 
